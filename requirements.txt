@@ -3,4 +3,3 @@ numpy
 streamlit
 pandas
 scikit-learn
-tensorflow
